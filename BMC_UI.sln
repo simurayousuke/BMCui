@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMC_UI", "BMC_UI\BMC_UI.csproj", "{E064165A-670F-4030-8718-6EEB7F608C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E064165A-670F-4030-8718-6EEB7F608C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E064165A-670F-4030-8718-6EEB7F608C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E064165A-670F-4030-8718-6EEB7F608C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E064165A-670F-4030-8718-6EEB7F608C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
