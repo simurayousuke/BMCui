@@ -1,0 +1,8 @@
+D:\Mine\Code\BMCui-master\BMC_UI\bin\Debug\BMC_UI.exe
+D:\Mine\Code\BMCui-master\BMC_UI\bin\Debug\BMC_UI.pdb
+D:\Mine\Code\BMCui-master\BMC_UI\obj\Debug\BMC_UI.csprojResolveAssemblyReference.cache
+D:\Mine\Code\BMCui-master\BMC_UI\obj\Debug\BMC_UI.MainForm.resources
+D:\Mine\Code\BMCui-master\BMC_UI\obj\Debug\BMC_UI.Properties.Resources.resources
+D:\Mine\Code\BMCui-master\BMC_UI\obj\Debug\BMC_UI.csproj.GenerateResource.Cache
+D:\Mine\Code\BMCui-master\BMC_UI\obj\Debug\BMC_UI.exe
+D:\Mine\Code\BMCui-master\BMC_UI\obj\Debug\BMC_UI.pdb
